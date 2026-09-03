@@ -2175,7 +2175,7 @@
       "name": "phaneslight",
       "description": "Multi-agent orchestration and project-memory system for Claude Code. One command turns a repository into a wired multi-agent environment: a project-specific agent roster, a documentation and session-summary tree, a tested script library, and enforcement hooks that hold size and stamp discipline at the harness layer. Re-runnable, so the setup grows with the codebase.",
       "author": {
-        "name": "Blueprompt",
+        "name": "Aloim",
         "url": "https://github.com/Aloim"
       },
       "homepage": "https://github.com/Aloim/phaneslight",
