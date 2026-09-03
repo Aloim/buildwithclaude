@@ -2170,6 +2170,34 @@
         "repo": "JasonColapietro/suede-creator-skills"
       },
       "strict": false
+    },
+    {
+      "name": "phaneslight",
+      "description": "Multi-agent orchestration and project-memory system for Claude Code. One command turns a repository into a wired multi-agent environment: a project-specific agent roster, a documentation and session-summary tree, a tested script library, and enforcement hooks that hold size and stamp discipline at the harness layer. Re-runnable, so the setup grows with the codebase.",
+      "author": {
+        "name": "Blueprompt",
+        "url": "https://github.com/Aloim"
+      },
+      "homepage": "https://github.com/Aloim/phaneslight",
+      "repository": "https://github.com/Aloim/phaneslight",
+      "license": "See LICENSE",
+      "keywords": [
+        "orchestration",
+        "multi-agent",
+        "subagents",
+        "project-memory",
+        "documentation",
+        "hooks",
+        "bootstrap",
+        "code-quality",
+        "claude-code"
+      ],
+      "category": "orchestration",
+      "version": "3.7.0",
+      "source": {
+        "source": "github",
+        "repo": "Aloim/phaneslight"
+      }
     }
   ]
 }
